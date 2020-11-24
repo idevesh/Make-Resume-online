@@ -41,3 +41,6 @@ To setup the project on your local machine:
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
 3. `git clone https://github.com/idevesh/Online-Resume-Builder.git`
+
+
+### Show some ❤️ by starring my repository! ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.Make-Resume-online&style=flat-square&color=0088cc)
